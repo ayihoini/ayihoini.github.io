@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ayihoini.github.io/JHs/sitemap_index.txt
+Sitemap: https://ayihoini.github.io/cuq/sitemap_index.txt
+Sitemap: https://ayihoini.github.io/pQK/sitemap_index.txt
+Sitemap: https://ayihoini.github.io/wPK/sitemap_index.txt
